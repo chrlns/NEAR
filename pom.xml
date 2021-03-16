@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>near-common</module>
         <module>near-master</module>
         <module>near-worker</module>
     </modules>
